@@ -6,7 +6,7 @@ This is for week 3 of Hack Club Half-Life
 
 This is my schematic for eight buttons, run on an Arduino Pro Micro. It should allow me to create an output of notes C through to C.
 
-![Image]()
+![Image](https://github.com/jeremy-stardance/MIDI-Keyboard/blob/main/Images/Screenshot%202026-10-22%20112521.png)
 
 Here is the PCB design. The wiring is very satisfying.
 
