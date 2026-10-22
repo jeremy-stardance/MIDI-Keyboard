@@ -20,6 +20,8 @@ Here is the PCB design. The wiring is very satisfying.
 
 The prices are in $USD. I am using the Arduino Pro Micro as a 'brain' for the project. The wires will be used to jump across my PCB Development Board, and I will use the breadboard to test code and wiring because I am not confident enough in my code to want to just hope for the best.
 
+I already own a PCB Development Board, and 8 Buttons, so didn't need to but them on the BOM.
+
 ## What I Have Learnt
 
 Before this, I had only used arduino templates as code, but this is the first time I actually tweaked and changed code. I had to learn a little bit of the coding language (with help from AI). 
